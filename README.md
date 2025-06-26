@@ -34,34 +34,6 @@ Procurement and commercial teams often rely on intuition or static reports to ev
 - `python-docx` — automated Word report generation  
 - Jupyter — iterative exploration
 
----
-
-## 📁 Project Structure
-
-```
-vendor-performance-analysis/
-│
-├── data/                        # (Mocked) input CSVs
-│   └── sample_data.csv
-│
-├── scripts/                     # Pipeline automation scripts
-│   ├── ingest_data.py
-│   ├── clean_prepare.py
-│   └── analyze.py
-│
-├── notebooks/                   # Exploratory and visual workflows
-│   └── eda_visuals.ipynb
-│
-├── visuals/                     # All analysis plots
-│   └── [scatter, donut, histograms, bar charts...]
-│
-├── reports/
-│   └── Vendor_Brand_Analysis_Report.docx
-│
-├── .gitignore
-├── requirements.txt
-└── README.md
-```
 
 ---
 
