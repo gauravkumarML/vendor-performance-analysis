@@ -1,0 +1,13 @@
+# Ignore all CSV files
+*.csv
+
+# Ignore database files
+*.db
+
+# Ignore data folders
+data/
+output/
+
+# Jupyter and Python temp files
+__pycache__/
+.ipynb_checkpoints/
