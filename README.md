@@ -30,8 +30,7 @@ Procurement and commercial teams often rely on intuition or static reports to ev
 - `pandas`, `numpy` — data manipulation  
 - `sqlite3`, `SQL` — structured ingestion and querying  
 - `scipy.stats` — hypothesis testing, confidence intervals  
-- `matplotlib`, `seaborn` — visual storytelling  
-- `python-docx` — automated Word report generation  
+- `matplotlib`, `seaborn` — visualisation   
 - Jupyter — iterative exploration
 
 
